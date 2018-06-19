@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "979510631477",
+    "firebase_url": "https://fir-cloud-messaging-61faf.firebaseio.com",
+    "project_id": "fir-cloud-messaging-61faf",
+    "storage_bucket": "fir-cloud-messaging-61faf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979510631477:android:9c47cce4be8a0412",
+        "android_client_info": {
+          "package_name": "com.example.meto.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979510631477-hco16fjlkb5p2jjuih69ag3drq84dpbc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "979510631477-hco16fjlkb5p2jjuih69ag3drq84dpbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQvYrNEKwZGUsNPeeZJ10733H1QwxBJ5Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
